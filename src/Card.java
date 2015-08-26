@@ -1,4 +1,4 @@
-
+//COMENTARIO DE ISRAEL
 public class Card {
 	private short rank,
 				  suit;
