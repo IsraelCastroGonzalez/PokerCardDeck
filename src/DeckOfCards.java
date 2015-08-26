@@ -29,8 +29,7 @@ public class DeckOfCards implements DeckOfCardsInterface {
 
 	@Override
 	public int cardsLeft() {
-		// TODO Auto-generated method stub
-		return 0;
+		return this.deck.length - this.position;
 	}
 
 	@Override
